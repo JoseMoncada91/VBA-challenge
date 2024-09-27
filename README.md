@@ -1,7 +1,7 @@
 # Project Title = Module#2 Challenge VBA - Jose Moncada
 
 ## Description
-This submission includes 4 images and a VBA script for Multiple_year_stock_data Excel file
+This submission includes 4 images,VBA script in ".bas" format and ".vba" format as well, the excel file Multiple_year_stock_data.xlsm as reference.
 
 ## File Contents
 - `JoseMoncada_VBAScript.bas` - The main VBA script for Module#2 Challenge / Multiple_year_stock_data Excel file
